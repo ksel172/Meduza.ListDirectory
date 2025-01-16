@@ -1,15 +1,14 @@
 {
   "Module": {
-    "Name": "ListDirectoryModule",
-    "Author": "@reptar",
+    "Name": "ListDirectory",
+    "Author": "@ksel172",
     "Description": "A module for listing directories",
-    "FileName": "ListDirectoryModule.dll",
+    "FileName": "ListDirectory.dll",
     "Usage": "1. ListDirectory - lists directories",
     "Commands": [
       {
         "Name": "ListDirectory",
-        "Description": "ListDirectory <dir>\nLists the directory given or the current directory if no args.",
-        }
+        "Description": "ListDirectory <dir>\nLists the directory given or the current directory if no args."
       }
     ]
   }
