@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ModuleBase\ModuleBase.csproj" />
+    <ProjectReference Include="..\..\..\Documents\Golang\Meduza\agent\Agent.ModuleBase\Agent.ModuleBase.csproj" />
   </ItemGroup>
 
   <ItemGroup>

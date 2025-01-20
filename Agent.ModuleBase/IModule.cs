@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Dynamic;
 
-namespace ModuleBase
+namespace Agent.ModuleBase
 {
     public interface IModule
     {
