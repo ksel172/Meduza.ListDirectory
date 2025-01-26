@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Meduza.Agent.ModuleBase" Version="1.0.0" />
+    <PackageReference Include="Meduza.Agent.ModuleBase" Version="1.0.3" />
   </ItemGroup>
 
   <ItemGroup>
