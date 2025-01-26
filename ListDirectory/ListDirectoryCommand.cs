@@ -1,12 +1,10 @@
-﻿using Agent.ModuleBase;
+﻿using Meduza.Agent.ModuleBase;
 
 namespace ListDirectory
 {
     public class ListDirectoryCommand : ICommand
     {
         public string Name => "ListDirectory";
-
-        public string Description => "ListDirectory <dir>\nLists the directory given or the current directory if no args.";
 
         public Stream OutputStream { get; set; } = new MemoryStream();
 

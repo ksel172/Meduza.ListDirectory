@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDirectory", "ListDirectory\ListDirectory.csproj", "{8C610733-948D-4911-A088-847F4D5F8228}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent.ModuleBase", "..\..\Documents\Golang\Meduza\agent\Agent.ModuleBase\Agent.ModuleBase.csproj", "{F069F5E6-BACC-448F-A3B3-1A4A9C51C652}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDirectory", "ListDirectory\ListDirectory.csproj", "{322B2971-8590-4135-89F1-293074F4E397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C610733-948D-4911-A088-847F4D5F8228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C610733-948D-4911-A088-847F4D5F8228}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C610733-948D-4911-A088-847F4D5F8228}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C610733-948D-4911-A088-847F4D5F8228}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F069F5E6-BACC-448F-A3B3-1A4A9C51C652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F069F5E6-BACC-448F-A3B3-1A4A9C51C652}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F069F5E6-BACC-448F-A3B3-1A4A9C51C652}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F069F5E6-BACC-448F-A3B3-1A4A9C51C652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322B2971-8590-4135-89F1-293074F4E397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322B2971-8590-4135-89F1-293074F4E397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322B2971-8590-4135-89F1-293074F4E397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322B2971-8590-4135-89F1-293074F4E397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
